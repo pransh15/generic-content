@@ -29,7 +29,7 @@ When there are notifications, an indicator appears in the user menu on any MDN p
 
 You can see what pages you’re watching in two ways:
 
-1. Click on **MDN Plus -> Notifications**
+1. Click on **MDN Plus → Notifications**
    ![Screenshot showing MDN Plus main menu expanded revealing a Notifications menu entry.](/assets/plus-docs/notifications/access-notifications-from-main-menu.png)
 2. On the notifications dashboard, click on **Watch list**
    ![Screenshot showing notifications dashboard with the watch list tab active.](/assets/plus-docs/notifications/watch-list.png)
@@ -48,7 +48,7 @@ You can **stop watching a page** in two ways:
 
 1. Visit the page you want to stop watching, then click **Watching → Unwatch**.
    ![Screenshot showing the watch button activated opening a dialog that shows the unwatch option.](/assets/plus-docs/notifications/unwatch-page.png)
-2. Go to **Notifications -> Watch list**, and use the **⋮ menu** to the right of the watched page and select **Unwatch**.
+2. Go to **Notifications → Watch list**, and use the **⋮ menu** to the right of the watched page and select **Unwatch**.
    Your watched page has now been removed. Select Undo in the notification at the bottom of the screen to revert this action.
    ![Screenshot showing the notifications dashboard with an entries three-dot menu, to the right, activated revealing an unwatch option.](/assets/plus-docs/notifications/unwatch-dashboard.png)
 
