@@ -239,7 +239,7 @@ forefront of web development!
 
 #### Miruna Curtean
 
-- QA
+- Quality Assurance
 - ![](https://avatars.githubusercontent.com/mirunacurtean)
 - [@mirunacurtean](https://github.com/mirunacurtean)
 - Miruna calls Cluj-Napoca, Romania home. Contracting with Mozilla since 2019,
@@ -433,6 +433,121 @@ forefront of web development!
   kids.
 
 </team-member>
+
+### Our Partners
+
+<div>
+
+#### PAB
+
+<team-member>
+
+##### Rachel Andrew
+
+- Content Lead at Google
+- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/rachel-309x309@1x.jpg)
+- Rachel has been working on the web as a developer since 1996 and writing about web development for almost as long. She now works for Google as Content Lead for Chrome Developer Relations, owning the content strategy of [web.dev](http://web.dev) and [developer.chrome.com](http://developer.chrome.com), and is also a lead on the Baseline project. Rachel is a CSS Working Group member and specification editor, and in the past has been a contributor to MDN as a contractor for Mozilla and for Google.
+
+</team-member>
+<team-member>
+
+##### Robert Nyman
+
+- Web Developer Relations at Google
+- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/robert-309x309@1x.jpg)
+- Robert wants to make the web the best platform for developers and has always been heavily invested in the community and helping developers succeed. Prior to Google, Robert was a technical evangelist at Mozilla, focused on the Open Web and the company's various products and initiatives. He's a co-founder of Open Web Docs, lives in Stockholm, has a passion for traveling and meeting people, and has given presentations in 42 countries.
+
+</team-member>
+<team-member>
+
+##### Kyle Pflug
+
+- Group Product Manager, Microsoft Edge
+- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/kyle-309x309@1x.jpg)
+- Kyle Pflug is a Group Product Manager in the Edge Web Platform team at Microsoft, where he leads developer advocacy and evangelism for all of Edge, as well as product management for the HTML, CSS, Composition, and Input areas in Microsoft Edge. Previously, Kyle has worked on the Edge platform for a decade, focused on advancing the web app platform, developer tools, and developer ecosystem engagements. He has worked to champion web developer and partner needs within Microsoft and across the industry. In addition to supporting the MDN Product Advisory Board, Kyle is a co-founder and Governing Committee member at Open Web Docs.
+
+</team-member>
+<team-member>
+
+##### Dominique Hazael-Massieux
+
+- W3C, Web Technology Expert including Web
+- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/dominique-309x309@1x.jpg)
+- Dominique Hazael-Massieux is part of the W3C staff, leading W3C
+  efforts in developer relations. Dom has been working for W3C since 2000,
+  and in addition to dev rel, is currently involved in the standardization
+  of WebRTC, WebNN and looking over the systemic impact of AI on the Web.
+  Dom also sits on the W3C Board of Directors and on the Open Web Docs
+  Governing Committee.
+
+</team-member>
+<team-member>
+
+##### Boaz Sender
+
+- Founding Principal, Bocoup
+- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/boaz-309x309@1x.jpg)
+- Boaz works on web platform strategy and product development at Bocoup with a specific focus on accessibility and privacy. He supports Bocoup’s work in web developer tools, standards, testing, and coalition building for the web platform, and builds web applications for Bocoup’s [Free Prototype Program](https://bocoup.com/blog/free-prototype-program). Along with day-to-day work at Bocoup, Boaz is a member of the Web Platform Tests Interop Program, and serves on the [Design Justice Network](https://designjustice.org/) Steering Committee, and [Processing Foundation](https://processingfoundation.org/) Board of Advisors.
+
+</team-member>
+<team-member>
+
+##### Laura Morinigo
+
+- Web Developer Advocate
+- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/laura-309x309@1x.jpg)
+- Laura is a software developer, advocate, and mentor, passionate about sharing her knowledge and connecting with tech communities worldwide. She has been recognized as a Google Developer Expert and a Woman Techmakers Ambassador for her contributions. As a mentor, she has supported startups in accelerator programs like Google Launchpad and the United Nations’ World Food Programme. Currently, Laura contributes to web standards and advocates for advanced web features, helping developers build more inclusive and impactful web applications.
+
+</team-member>
+
+</div>
+<div>
+
+#### OWD
+
+[Open Web Docs (OWD)](https://openwebdocs.org/), an independent open source organization, is one of the most productive contributors to MDN Web Docs. OWD contributes as part of [their mission](https://github.com/openwebdocs/project/blob/main/charter.md) to support “web platform documentation for the benefit of web developers & designers worldwide.” The team at OWD has led or contributed to many projects to improve documentation on MDN. They're an invaluable partner in the day-to-day work of making MDN. Read more about OWD’s activities in their [2023 Impact and Transparency Report](https://openwebdocs.org/content/reports/2023/) and get continuous updates on their [Mastodon](https://front-end.social/@OpenWebDocs) account.
+
+<team-member>
+
+##### Florian Scholz
+
+- Director
+- ![](https://avatars.githubusercontent.com/Elchi3)
+- [@Elchi3](https://github.com/Elchi3)
+- Florian Scholz is the Director of Open Web Docs. He began volunteer editing MDN as a teen in 2009 and previously worked at Mozilla as MDN's Lead Content Strategist, Technical Writer & Documentation Engineer from 2013 until 2020\. He's one of the creators of the browser compatibility data (BCD) project and it makes him happy [when open source projects collaborate](https://hacks.mozilla.org/2019/09/caniuse-and-mdn-compat-data-collaboration/). He lives in Bremen, Germany; not Berlin. Other than submitting and reviewing PRs on GitHub, he enjoys listening to wave and post-punk music.
+
+</team-member>
+<team-member>
+
+##### Will Bamberg
+
+- Sr. Technical Writer and Documentation Engineer
+- ![](https://avatars.githubusercontent.com/wbamberg)
+- [@wbamberg](https://github.com/wbamberg)
+- Will Bamberg is a perfectionist and professional pedant who has been writing about the web for a long time, mostly on MDN. He enjoys learning about new aspects of the web platform and then turning that knowledge into accessible documentation. He believes that writing good documentation depends on understanding what it's like for someone who is learning something new or looking for the answer to their question.
+
+</team-member>
+<team-member>
+
+##### Estelle Weyl
+
+- Sr. Technical Writer and Developer Advocate
+- ![](https://avatars.githubusercontent.com/estelle)
+- [@estelle](https://github.com/estelle)
+- Estelle Weyl is a Sr. Technical Writer and Developer Advocate on the Open Web Docs team. She is a frontend engineer , writing CSS, JS and HTML since 1999. Estelle has always been a web standardista, advocating for a free, accessible, and performant web. Estelle has been documenting and teaching web standards since 2007, writing numerous books, blogs, and tutorials. She’s typing with her cat (who thinks he's a dog) and dog (who thinks she's a cat) in San Francisco.
+
+</team-member>
+<team-member>
+
+##### Queen Vinyl Da.i'gyu-Kazotetsu
+
+- Compat Data Engineer
+- ![](https://avatars.githubusercontent.com/queengooborg)
+- [@queengooborg](https://github.com/queengooborg)
+- Vinyl works for Open Web Docs leading the browser compatibility data (BCD) project that millions of developers around the world rely on. Previously a contractor at Google and Mozilla and a long-time BCD community member, Vinyl has a lot of experience with compatibility on the open web. She was already the number #1 contributor to the BCD repository before officially joining our team! When she's not submitting pull requests to BCD, she's usually slicing blocks to the music in Beat Saber or staffing at various conventions across the globe.
+
+</team-member>
+</div>
 
 ## Global Impact
 
