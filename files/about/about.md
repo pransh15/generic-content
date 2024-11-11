@@ -93,6 +93,8 @@ here's how we've evolved:
   also introduced a Blog to cover interesting topics beyond MDN’s core focus,
   and a Curriculum to provide a structured approach to learning web development.
 
+#### Discover More
+
 We had fun exploring the
 [internet archives](https://web.archive.org/web/20240000000000*/developer.mozilla.org)
 and putting together a fast-forward trip through our transformation!
@@ -223,8 +225,8 @@ forefront of web development!
 #### Ruth John
 
 - Senior Product Manager
-- ![](https://avatars.githubusercontent.com/rumyra)
-- [@rumyra](https://github.com/rumyra)
+- ![](https://avatars.githubusercontent.com/Rumyra)
+- [@Rumyra](https://github.com/Rumyra)
 - Based in the UK, Ruth has been working on MDN since 2017. Starting out as a
   contracting technical writer documenting fun Web APIs, she joined the team
   full-time in 2021 and now heads up the content and community teams. She has
@@ -272,8 +274,8 @@ forefront of web development!
 #### Hermina Condei
 
 - Senior Director
-- ![](https://avatars.githubusercontent.com/herminac)
-- [@herminac](https://github.com/herminac)
+- ![](https://avatars.githubusercontent.com/HerminaC)
+- [@HerminaC](https://github.com/HerminaC)
 - Hermina lives in Paris. She joined Mozilla in 2013 and has been leading the
   MDN team since 2022. She manages the product, engineering, and technical
   writers groups, while also presiding over the Product Advisory Board[link] for
@@ -447,6 +449,7 @@ forefront of web development!
 - Content Lead at Google
 - ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/rachel-309x309@1x.jpg)
 - Rachel has been working on the web as a developer since 1996 and writing about web development for almost as long. She now works for Google as Content Lead for Chrome Developer Relations, owning the content strategy of [web.dev](http://web.dev) and [developer.chrome.com](http://developer.chrome.com), and is also a lead on the Baseline project. Rachel is a CSS Working Group member and specification editor, and in the past has been a contributor to MDN as a contractor for Mozilla and for Google.
+  Photo © Drew McLellan.
 
 </team-member>
 <team-member>
@@ -555,17 +558,17 @@ Serving over 17 million users monthly from around the globe, MDN connects
 developers with the tools and information they need to easily build projects on
 the open web.
 
-- Educational influence: Our resources are integral to many coding bootcamps and
+- **Educational influence:** Our resources are integral to many coding bootcamps and
   university courses worldwide.
 
-- Trusted reference: Platforms like freeCodeCamp and Codecademy frequently link
+- **Trusted reference:** Platforms like freeCodeCamp and Codecademy frequently link
   to MDN articles as authoritative references.
 
-- Industry standard: Tools like caniuse leverage
+- **Industry standard:** Tools like caniuse leverage
   [MDN’s browser compatibility data](https://github.com/mdn/browser-compat-data/blob/main/README.md)
   for up-to-date information on web feature support across browsers.
 
-- Collaborative partnerships: We work closely with partners such as
+- **Collaborative partnerships:** We work closely with partners such as
   [Open Web Docs](https://openwebdocs.org/),
   [Microsoft](https://developer.microsoft.com/),
   [Google](https://developer.chrome.com/), [Igalia](https://www.igalia.com/),
