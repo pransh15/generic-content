@@ -101,24 +101,24 @@ and putting together a fast-forward trip through our transformation!
 
 <mdn-image-history>
 
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20040824212916-960x540@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20040926061442-960x540@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20050121103200-960x540@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20051013061526-960x540@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20080902030554-960x540@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20100527151325-960x540@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20100901014818-960x540@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20110629040904-960x540@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20130530051649-960x540@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20140102053320-1280x720@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20150427211755-1280x720@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20170902000550-1280x720@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20200103045709-1280x720@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20210302022458-1280x720@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20210802024138-1280x720@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20220302031116-1280x720@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20220402010722-1280x720@0.5x.png)
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/screenshots/20220502042141-1280x720@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20040824212916-960x540@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20040926061442-960x540@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20050121103200-960x540@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20051013061526-960x540@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20080902030554-960x540@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20100527151325-960x540@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20100901014818-960x540@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20110629040904-960x540@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20130530051649-960x540@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20140102053320-1280x720@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20150427211755-1280x720@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20170902000550-1280x720@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20200103045709-1280x720@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20210302022458-1280x720@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20210802024138-1280x720@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20220302031116-1280x720@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20220402010722-1280x720@0.5x.png)
+- ![](https://mdn.dev/generic-content/about/screenshots/20220502042141-1280x720@0.5x.png)
 
 </mdn-image-history>
 
@@ -177,7 +177,7 @@ forefront of web development!
 #### Vadim Makeev
 
 - Staff Technical Writer
-- ![](https://avatars.githubusercontent.com/pepelsbey)
+- ![](https://mdn.dev/generic-content/about/profiles/vadim-309x309@1x.jpg)
 - [@pepelsbey](https://github.com/pepelsbey)
 - Based in Berlin, Vadim has been working on MDN since 2023. He combines his
   previous experience as a front-end developer with a deep passion for browsers
@@ -192,7 +192,7 @@ forefront of web development!
 #### Pranshu Khanna
 
 - Staff Community Manager
-- ![](https://avatars.githubusercontent.com/pransh15)
+- ![](https://mdn.dev/generic-content/about/profiles/pranshu-309x309@1x.jpg)
 - [@pransh15](https://github.com/pransh15)
 - Pranshu has been a long-term contributor to Mozilla as a Rep. Based in Berlin,
   he joined the MDN team in 2024. He works on moderating, growing and managing
@@ -210,7 +210,7 @@ forefront of web development!
 #### Sonal Sood
 
 - Senior Product Manager
-- ![](https://avatars.githubusercontent.com/s-sood)
+- ![](https://mdn.dev/generic-content/about/profiles/sonal-309x309@1x.jpg)
 - [@s-sood](https://github.com/s-sood)
 - Sonal lives in Berlin. She has been with MDN since 2022. As a product manager,
   she is adept at identifying and prioritizing features that truly meet users'
@@ -225,7 +225,7 @@ forefront of web development!
 #### Ruth John
 
 - Senior Product Manager
-- ![](https://avatars.githubusercontent.com/Rumyra)
+- ![](https://mdn.dev/generic-content/about/profiles/ruth-309x309@1x.jpg)
 - [@Rumyra](https://github.com/Rumyra)
 - Based in the UK, Ruth has been working on MDN since 2017. Starting out as a
   contracting technical writer documenting fun Web APIs, she joined the team
@@ -242,7 +242,7 @@ forefront of web development!
 #### Miruna Curtean
 
 - Quality Assurance
-- ![](https://avatars.githubusercontent.com/mirunacurtean)
+- ![](https://mdn.dev/generic-content/about/profiles/miruna-309x309@1x.jpg)
 - [@mirunacurtean](https://github.com/mirunacurtean)
 - Miruna calls Cluj-Napoca, Romania home. Contracting with Mozilla since 2019,
   she worked on Firefox Add-ons and Mozilla Support before switching to MDN
@@ -259,7 +259,7 @@ forefront of web development!
 #### Leo McArdle
 
 - Senior Software Engineer
-- ![](https://avatars.githubusercontent.com/LeoMcA)
+- ![](https://mdn.dev/generic-content/about/profiles/leo-309x309@1x.jpg)
 - [@LeoMcA](https://github.com/LeoMcA)
 - A London-based long-term Mozilla contributor, Leo has been working on MDN
   since 2022 and volunteering for Mozilla since around 2008. As a self-taught
@@ -274,7 +274,7 @@ forefront of web development!
 #### Hermina Condei
 
 - Senior Director
-- ![](https://avatars.githubusercontent.com/HerminaC)
+- ![](https://mdn.dev/generic-content/about/profiles/hermina-309x309@1x.jpg)
 - [@HerminaC](https://github.com/HerminaC)
 - Hermina lives in Paris. She joined Mozilla in 2013 and has been leading the
   MDN team since 2022. She manages the product, engineering, and technical
@@ -290,7 +290,7 @@ forefront of web development!
 #### Dipika Bhattacharya
 
 - Staff Technical Writer
-- ![](https://avatars.githubusercontent.com/dipikabh)
+- ![](https://mdn.dev/generic-content/about/profiles/dipika-309x309@1x.jpg)
 - [@dipikabh](https://github.com/dipikabh)
 - Dipika works out of Toronto. She joined the MDN team in 2022, bringing her
   background in instructional design to the role. She is passionate about
@@ -306,7 +306,7 @@ forefront of web development!
 #### Florian Dieminger
 
 - Technical Lead
-- ![](https://avatars.githubusercontent.com/fiji-flo)
+- ![](https://mdn.dev/generic-content/about/profiles/florian-309x309@1x.jpg)
 - [@fiji-flo](https://github.com/fiji-flo)
 - A Berlin resident and a long-time Mozilian, Florian was an active community
   member before he joined the Mozilla staff in 2018. His passion for the web
@@ -320,7 +320,7 @@ forefront of web development!
 #### Claas Augner
 
 - Senior Software Engineer
-- ![](https://avatars.githubusercontent.com/caugner)
+- ![](https://mdn.dev/generic-content/about/profiles/claas-309x309@1x.jpg)
 - [@caugner](https://github.com/caugner)
 - Based in Paris, Claas has been working as a Software Engineer in the MDN team
   since 2022. He is passionate about clean code and continuous improvement. He
@@ -334,7 +334,7 @@ forefront of web development!
 #### Brian Smith
 
 - Staff Technical Writer
-- ![](https://avatars.githubusercontent.com/bsmth)
+- ![](https://mdn.dev/generic-content/about/profiles/brian-309x309@1x.jpg)
 - [@bsmth](https://github.com/bsmth)
 - Brian has been with MDN since 2022. He lives in Berlin. With around 20 years
   of experience hacking on web technologies and working full-time as a technical
@@ -352,7 +352,7 @@ forefront of web development!
 #### Anuja Rajput
 
 - Senior User Experience Designer
-- ![](https://avatars.githubusercontent.com/AnujaRajput727)
+- ![](https://mdn.dev/generic-content/about/profiles/anuja-309x309@1x.jpg)
 - [@AnujaRajput727](https://github.com/AnujaRajput727)
 - Located in London, Anuja has been a part of the MDN team since 2023. With over
   8 years of experience, she has passionately contributed to various phases of
@@ -368,7 +368,7 @@ forefront of web development!
 #### Andi Pieper
 
 - Staff Software Engineer
-- ![](https://avatars.githubusercontent.com/argl)
+- ![](https://mdn.dev/generic-content/about/profiles/andi-309x309@1x.jpg)
 - [@argl](https://github.com/argl)
 - Andi lives in Berlin. He joined the MDN team in 2023. He is focused on keeping
   up the high quality of MDN and ensuring that it remains an accessible,
@@ -384,7 +384,7 @@ forefront of web development!
 #### Hamish Willee
 
 - Technical Writer
-- ![](https://avatars.githubusercontent.com/hamishwillee)
+- ![](https://mdn.dev/generic-content/about/profiles/hamish-309x309@1x.jpg)
 - [@hamishwillee](https://github.com/hamishwillee)
 - Based in Melbourne, Australia, Hamish has been with MDN since 2014, initially
   on short-term contracts for various projects. From 2020, he’s been focused on
@@ -402,7 +402,7 @@ forefront of web development!
 #### Dave Letorey
 
 - Technical Writer
-- ![](https://avatars.githubusercontent.com/dletorey)
+- ![](https://mdn.dev/generic-content/about/profiles/dave-309x309@1x.jpg)
 - [@dletorey](https://github.com/dletorey)
 - Based in London, UK, Dave has been with MDN since 2022 where he's been focused
   on Firefox release documentation, particularly HTML, CSS and SVG updates. He's
@@ -423,7 +423,7 @@ forefront of web development!
 #### Chris Mills
 
 - Technical writer and product strategist
-- ![](https://avatars.githubusercontent.com/chrisdavidmills)
+- ![](https://mdn.dev/generic-content/about/profiles/chris-309x309@1x.jpg)
 - [@chrisdavidmills](https://github.com/chrisdavidmills)
 - Based in Greenfield, UK, Chris has been part of MDN since 2013, initially as a
   technical writer and then as the writers' team lead until 2021. He came back
@@ -447,7 +447,7 @@ forefront of web development!
 ##### Rachel Andrew
 
 - Content Lead at Google
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/rachel-309x309@1x.jpg)
+- ![](https://mdn.dev/generic-content/about/profiles/pab/rachel-309x309@1x.jpg)
 - Rachel has been working on the web as a developer since 1996 and writing about web development for almost as long. She now works for Google as Content Lead for Chrome Developer Relations, owning the content strategy of [web.dev](http://web.dev) and [developer.chrome.com](http://developer.chrome.com), and is also a lead on the Baseline project. Rachel is a CSS Working Group member and specification editor, and in the past has been a contributor to MDN as a contractor for Mozilla and for Google.
   Photo © Drew McLellan.
 
@@ -457,7 +457,7 @@ forefront of web development!
 ##### Robert Nyman
 
 - Web Developer Relations at Google
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/robert-309x309@1x.jpg)
+- ![](https://mdn.dev/generic-content/about/profiles/pab/robert-309x309@1x.jpg)
 - Robert wants to make the web the best platform for developers and has always been heavily invested in the community and helping developers succeed. Prior to Google, Robert was a technical evangelist at Mozilla, focused on the Open Web and the company's various products and initiatives. He's a co-founder of Open Web Docs, lives in Stockholm, has a passion for traveling and meeting people, and has given presentations in 42 countries.
 
 </team-member>
@@ -466,7 +466,7 @@ forefront of web development!
 ##### Kyle Pflug
 
 - Group Product Manager, Microsoft Edge
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/kyle-309x309@1x.jpg)
+- ![](https://mdn.dev/generic-content/about/profiles/pab/kyle-309x309@1x.jpg)
 - Kyle Pflug is a Group Product Manager in the Edge Web Platform team at Microsoft, where he leads developer advocacy and evangelism for all of Edge, as well as product management for the HTML, CSS, Composition, and Input areas in Microsoft Edge. Previously, Kyle has worked on the Edge platform for a decade, focused on advancing the web app platform, developer tools, and developer ecosystem engagements. He has worked to champion web developer and partner needs within Microsoft and across the industry. In addition to supporting the MDN Product Advisory Board, Kyle is a co-founder and Governing Committee member at Open Web Docs.
 
 </team-member>
@@ -475,7 +475,7 @@ forefront of web development!
 ##### Dominique Hazael-Massieux
 
 - W3C, Web Technology Expert including Web
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/dominique-309x309@1x.jpg)
+- ![](https://mdn.dev/generic-content/about/profiles/pab/dominique-309x309@1x.jpg)
 - Dominique Hazael-Massieux is part of the W3C staff, leading W3C
   efforts in developer relations. Dom has been working for W3C since 2000,
   and in addition to dev rel, is currently involved in the standardization
@@ -489,7 +489,7 @@ forefront of web development!
 ##### Boaz Sender
 
 - Founding Principal, Bocoup
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/boaz-309x309@1x.jpg)
+- ![](https://mdn.dev/generic-content/about/profiles/pab/boaz-309x309@1x.jpg)
 - Boaz works on web platform strategy and product development at Bocoup with a specific focus on accessibility and privacy. He supports Bocoup’s work in web developer tools, standards, testing, and coalition building for the web platform, and builds web applications for Bocoup’s [Free Prototype Program](https://bocoup.com/blog/free-prototype-program). Along with day-to-day work at Bocoup, Boaz is a member of the Web Platform Tests Interop Program, and serves on the [Design Justice Network](https://designjustice.org/) Steering Committee, and [Processing Foundation](https://processingfoundation.org/) Board of Advisors.
 
 </team-member>
@@ -498,7 +498,7 @@ forefront of web development!
 ##### Laura Morinigo
 
 - Web Developer Advocate
-- ![](https://storage.googleapis.com/mdn-dev-static-site/generic-content/about/profiles/laura-309x309@1x.jpg)
+- ![](https://mdn.dev/generic-content/about/profiles/pab/laura-309x309@1x.jpg)
 - Laura is a software developer, advocate, and mentor, passionate about sharing her knowledge and connecting with tech communities worldwide. She has been recognized as a Google Developer Expert and a Woman Techmakers Ambassador for her contributions. As a mentor, she has supported startups in accelerator programs like Google Launchpad and the United Nations’ World Food Programme. Currently, Laura contributes to web standards and advocates for advanced web features, helping developers build more inclusive and impactful web applications.
 
 </team-member>
@@ -515,7 +515,7 @@ forefront of web development!
 ##### Florian Scholz
 
 - Director
-- ![](https://avatars.githubusercontent.com/Elchi3)
+- ![](https://mdn.dev/generic-content/about/profiles/owd/florian-309x309@1x.jpg)
 - [@Elchi3](https://github.com/Elchi3)
 - Florian Scholz is the Director of Open Web Docs. He began volunteer editing MDN as a teen in 2009 and previously worked at Mozilla as MDN's Lead Content Strategist, Technical Writer & Documentation Engineer from 2013 until 2020\. He's one of the creators of the browser compatibility data (BCD) project and it makes him happy [when open source projects collaborate](https://hacks.mozilla.org/2019/09/caniuse-and-mdn-compat-data-collaboration/). He lives in Bremen, Germany; not Berlin. Other than submitting and reviewing PRs on GitHub, he enjoys listening to wave and post-punk music.
 
@@ -525,7 +525,7 @@ forefront of web development!
 ##### Will Bamberg
 
 - Sr. Technical Writer and Documentation Engineer
-- ![](https://avatars.githubusercontent.com/wbamberg)
+- ![](https://mdn.dev/generic-content/about/profiles/owd/will-309x309@1x.jpg)
 - [@wbamberg](https://github.com/wbamberg)
 - Will Bamberg is a perfectionist and professional pedant who has been writing about the web for a long time, mostly on MDN. He enjoys learning about new aspects of the web platform and then turning that knowledge into accessible documentation. He believes that writing good documentation depends on understanding what it's like for someone who is learning something new or looking for the answer to their question.
 
@@ -535,7 +535,7 @@ forefront of web development!
 ##### Estelle Weyl
 
 - Sr. Technical Writer and Developer Advocate
-- ![](https://avatars.githubusercontent.com/estelle)
+- ![](https://mdn.dev/generic-content/about/profiles/owd/estelle-309x309@1x.jpg)
 - [@estelle](https://github.com/estelle)
 - Estelle Weyl is a Sr. Technical Writer and Developer Advocate on the Open Web Docs team. She is a frontend engineer , writing CSS, JS and HTML since 1999. Estelle has always been a web standardista, advocating for a free, accessible, and performant web. Estelle has been documenting and teaching web standards since 2007, writing numerous books, blogs, and tutorials. She’s typing with her cat (who thinks he's a dog) and dog (who thinks she's a cat) in San Francisco.
 
@@ -545,7 +545,7 @@ forefront of web development!
 ##### Queen Vinyl Da.i'gyu-Kazotetsu
 
 - Compat Data Engineer
-- ![](https://avatars.githubusercontent.com/queengooborg)
+- ![](https://mdn.dev/generic-content/about/profiles/owd/vinyl-309x309@1x.jpg)
 - [@queengooborg](https://github.com/queengooborg)
 - Vinyl works for Open Web Docs leading the browser compatibility data (BCD) project that millions of developers around the world rely on. Previously a contractor at Google and Mozilla and a long-time BCD community member, Vinyl has a lot of experience with compatibility on the open web. She was already the number #1 contributor to the BCD repository before officially joining our team! When she's not submitting pull requests to BCD, she's usually slicing blocks to the music in Beat Saber or staffing at various conventions across the globe.
 
@@ -575,7 +575,7 @@ the open web.
   [W3C](https://www.w3.org/), and others to drive web innovation and serve the
   common good.
 
-## Join us in Building a Better Web
+## Join us in building a better web
 
 Be a part of our mission to foster innovation and inclusivity on the web.
 [Start contributing today](/en-US/docs/MDN/Contribute) and make a lasting impact
