@@ -178,57 +178,25 @@ forefront of web development!
 
 <team-member>
 
-#### Vadim Makeev
+#### Hermina Condei
 
-- Staff Technical Writer
-- ![](https://mdn.dev/generic-content/about/profiles/vadim-309x309@1x.jpg)
-- [@pepelsbey](https://github.com/pepelsbey)
-- Based in Berlin, Vadim has been working on MDN since 2023. He combines his
-  previous experience as a front-end developer with a deep passion for browsers
-  and the web platform. Before joining Mozilla, he worked as a DevRel for the
-  Opera browser, authored front-end courses, and was also involved in organizing
-  conferences and meetups. In his spare time, he goes on bikepacking trips,
-  hangs out on punk gigs, and records podcasts and videos in his home studio.
-
-</team-member>
-<team-member>
-
-#### Pranshu Khanna
-
-- Staff Community Manager
-- ![](https://mdn.dev/generic-content/about/profiles/pranshu-309x309@1x.jpg)
-- [@pransh15](https://github.com/pransh15)
-- Pranshu has been a long-term contributor to Mozilla as a Rep. Based in Berlin,
-  he joined the MDN team in 2024. He works on moderating, growing and managing
-  MDN’s awesome community. Pranshu is passionate about building a healthy and
-  inclusive community for developers and helping them build better. Before
-  working at Mozilla, Pranshu gained extensive experience in growing developer
-  communities for startups, organizing conferences like GraphQL Conf. 2021 &
-  2022, and running global programs for devs and students around AI, Web, and
-  DevOps. In his free time, he likes to play football in any form - physical,
-  digital, and fantasy.
-
-</team-member>
-<team-member>
-
-#### Sonal Sood
-
-- Senior Product Manager
-- ![](https://mdn.dev/generic-content/about/profiles/sonal-309x309@1x.jpg)
-- [@s-sood](https://github.com/s-sood)
-- Sonal lives in Berlin. She has been with MDN since 2022. As a product manager,
-  she is adept at identifying and prioritizing features that truly meet users'
-  needs. With a strong background in data analysis and product management, she
-  is always focused on delivering valuable and impactful products that make a
-  difference. In her free time, Sonal enjoys cycling, running, and practicing
-  yoga.
+- Senior Director
+- ![](https://mdn.dev/generic-content/about/profiles/hermina-309x309@1x.jpg)
+- [@HerminaC](https://github.com/HerminaC)
+- Hermina lives in Paris. She joined Mozilla in 2013 and has been leading the
+  MDN team since 2022. She manages the product, engineering, and technical
+  writers groups, while also presiding over the Product Advisory Board[link] for
+  MDN. With a background in product management, Hermina is responsible for
+  setting the strategic direction of the website and enjoys getting involved in
+  day-to-day operations whenever she can. Hermina loves spending time with her
+  family and reading.
 
 </team-member>
 <team-member>
 
 #### Ruth John
 
-- Senior Product Manager
+- Senior Manager
 - ![](https://mdn.dev/generic-content/about/profiles/ruth-309x309@1x.jpg)
 - [@Rumyra](https://github.com/Rumyra)
 - Based in the UK, Ruth has been working on MDN since 2017. Starting out as a
@@ -243,50 +211,16 @@ forefront of web development!
 </team-member>
 <team-member>
 
-#### Miruna Curtean
+#### Florian Dieminger
 
-- Quality Assurance
-- ![](https://mdn.dev/generic-content/about/profiles/miruna-309x309@1x.jpg)
-- [@mirunacurtean](https://github.com/mirunacurtean)
-- Miruna calls Cluj-Napoca, Romania home. Contracting with Mozilla since 2019,
-  she worked on Firefox Add-ons and Mozilla Support before switching to MDN
-  in 2022. She focuses on analyzing requirements and community issues, building
-  comprehensive test bases, and ensuring delivered features meet requirements.
-  Before Mozilla, she worked in game development and e-commerce but found
-  greater joy in website development, particularly inspired by its community
-  aspect. Outside of work, Miruna enjoys story-based entertainment including
-  books, movies, shows, anime, and podcasts.
-
-</team-member>
-<team-member>
-
-#### Leo McArdle
-
-- Senior Software Engineer
-- ![](https://mdn.dev/generic-content/about/profiles/leo-309x309@1x.jpg)
-- [@LeoMcA](https://github.com/LeoMcA)
-- A London-based long-term Mozilla contributor, Leo has been working on MDN
-  since 2022 and volunteering for Mozilla since around 2008. As a self-taught
-  developer, largely through MDN, he cares about making the website discoverable
-  and functional for everyone. In his free time, he can be found cycling around
-  the city, photographing panoramas, or watching almost every sport imaginable,
-  from cricket to karting.
-
-</team-member>
-<team-member>
-
-#### Hermina Condei
-
-- Senior Director
-- ![](https://mdn.dev/generic-content/about/profiles/hermina-309x309@1x.jpg)
-- [@HerminaC](https://github.com/HerminaC)
-- Hermina lives in Paris. She joined Mozilla in 2013 and has been leading the
-  MDN team since 2022. She manages the product, engineering, and technical
-  writers groups, while also presiding over the Product Advisory Board[link] for
-  MDN. With a background in product management, Hermina is responsible for
-  setting the strategic direction of the website and enjoys getting involved in
-  day-to-day operations whenever she can. Hermina loves spending time with her
-  family and reading.
+- Senior Engineering Manager
+- ![](https://mdn.dev/generic-content/about/profiles/florian-309x309@1x.jpg)
+- [@fiji-flo](https://github.com/fiji-flo)
+- A Berlin resident and a long-time Mozilian, Florian was an active community
+  member before he joined the Mozilla staff in 2018. His passion for the web
+  spans across front-end, back-end, browser-engine and anything in-between. He
+  is a nerd outside of work too and is rediscovering online gaming. He loves
+  spending time with his family.
 
 </team-member>
 <team-member>
@@ -307,30 +241,17 @@ forefront of web development!
 </team-member>
 <team-member>
 
-#### Florian Dieminger
+#### Vadim Makeev
 
-- Technical Lead
-- ![](https://mdn.dev/generic-content/about/profiles/florian-309x309@1x.jpg)
-- [@fiji-flo](https://github.com/fiji-flo)
-- A Berlin resident and a long-time Mozilian, Florian was an active community
-  member before he joined the Mozilla staff in 2018. His passion for the web
-  spans across front-end, back-end, browser-engine and anything in-between. He
-  is a nerd outside of work too and is rediscovering online gaming. He loves
-  spending time with his family.
-
-</team-member>
-<team-member>
-
-#### Claas Augner
-
-- Senior Software Engineer
-- ![](https://mdn.dev/generic-content/about/profiles/claas-309x309@1x.jpg)
-- [@caugner](https://github.com/caugner)
-- Based in Paris, Claas has been working as a Software Engineer in the MDN team
-  since 2022. He is passionate about clean code and continuous improvement. He
-  enjoys entertaining (the team), and maintaining (the platform). Outside of
-  work, he loves baking rye sourdough breads and playing cooperative board
-  games.
+- Staff Technical Writer
+- ![](https://mdn.dev/generic-content/about/profiles/vadim-309x309@1x.jpg)
+- [@pepelsbey](https://github.com/pepelsbey)
+- Based in Berlin, Vadim has been working on MDN since 2023. He combines his
+  previous experience as a front-end developer with a deep passion for browsers
+  and the web platform. Before joining Mozilla, he worked as a DevRel for the
+  Opera browser, authored front-end courses, and was also involved in organizing
+  conferences and meetups. In his spare time, he goes on bikepacking trips,
+  hangs out on punk gigs, and records podcasts and videos in his home studio.
 
 </team-member>
 <team-member>
@@ -349,56 +270,6 @@ forefront of web development!
   services. Outside of work, he enjoys exploring new European destinations with
   family, discovering local coffee shops, and using music gear as long as it
   doesn't have a screen.
-
-</team-member>
-<team-member>
-
-#### Anuja Rajput
-
-- Senior User Experience Designer
-- ![](https://mdn.dev/generic-content/about/profiles/anuja-309x309@1x.jpg)
-- [@AnujaRajput727](https://github.com/AnujaRajput727)
-- Located in London, Anuja has been a part of the MDN team since 2023. With over
-  8 years of experience, she has passionately contributed to various phases of
-  product development, including design, business analysis, and testing. She is
-  empathetic and deeply cares about understanding users' perspectives and pain
-  points. She combines her work experience with her creative skills to enhance
-  her UX designs. In her free time, she enjoys painting, sketching, and travel
-  sketching.
-
-</team-member>
-<team-member>
-
-#### Andi Pieper
-
-- Staff Software Engineer
-- ![](https://mdn.dev/generic-content/about/profiles/andi-309x309@1x.jpg)
-- [@argl](https://github.com/argl)
-- Andi lives in Berlin. He joined the MDN team in 2023. He is focused on keeping
-  up the high quality of MDN and ensuring that it remains an accessible,
-  competent, and friendly help for anyone concerned with the web, regardless of
-  their level of expertise. Growing up with the internet of the 90s, Andi has
-  worked on a multitude of projects on the web over the years, occasionally
-  veering off into desktop and mobile development. Apart from his daytime
-  obligations, he enjoys creating organized noise.
-
-</team-member>
-<team-member>
-
-#### Hamish Willee
-
-- Technical Writer
-- ![](https://mdn.dev/generic-content/about/profiles/hamish-309x309@1x.jpg)
-- [@hamishwillee](https://github.com/hamishwillee)
-- Based in Melbourne, Australia, Hamish has been with MDN since 2014, initially
-  on short-term contracts for various projects. From 2020, he’s been focused on
-  Firefox release documentation, particularly Web API and HTTP updates, while
-  also contributing to other aspects of the open-source project. He’s passionate
-  about efficient processes that maximize time for creating clear, concise, and
-  maintainable documentation. Hamish values that his writing reaches thousands
-  of developers and enjoys working with the diverse community to make expert
-  knowledge accessible to everyone in a clear format. Outside work, he brews
-  beer, reads science fiction and fantasy, enjoys running, and likes drones.
 
 </team-member>
 <team-member>
@@ -437,6 +308,135 @@ forefront of web development!
   he is obsessed with loud, heavy music, and plays drums and guitar. He enjoys
   cycling, country walks, and spending time with his wife and three awesome
   kids.
+
+</team-member>
+<team-member>
+
+#### Hamish Willee
+
+- Technical Writer
+- ![](https://mdn.dev/generic-content/about/profiles/hamish-309x309@1x.jpg)
+- [@hamishwillee](https://github.com/hamishwillee)
+- Based in Melbourne, Australia, Hamish has been with MDN since 2014, initially
+  on short-term contracts for various projects. From 2020, he’s been focused on
+  Firefox release documentation, particularly Web API and HTTP updates, while
+  also contributing to other aspects of the open-source project. He’s passionate
+  about efficient processes that maximize time for creating clear, concise, and
+  maintainable documentation. Hamish values that his writing reaches thousands
+  of developers and enjoys working with the diverse community to make expert
+  knowledge accessible to everyone in a clear format. Outside work, he brews
+  beer, reads science fiction and fantasy, enjoys running, and likes drones.
+
+</team-member>
+<team-member>
+
+#### Andi Pieper
+
+- Staff Software Engineer
+- ![](https://mdn.dev/generic-content/about/profiles/andi-309x309@1x.jpg)
+- [@argl](https://github.com/argl)
+- Andi lives in Berlin. He joined the MDN team in 2023. He is focused on keeping
+  up the high quality of MDN and ensuring that it remains an accessible,
+  competent, and friendly help for anyone concerned with the web, regardless of
+  their level of expertise. Growing up with the internet of the 90s, Andi has
+  worked on a multitude of projects on the web over the years, occasionally
+  veering off into desktop and mobile development. Apart from his daytime
+  obligations, he enjoys creating organized noise.
+
+</team-member>
+<team-member>
+
+#### Claas Augner
+
+- Senior Software Engineer
+- ![](https://mdn.dev/generic-content/about/profiles/claas-309x309@1x.jpg)
+- [@caugner](https://github.com/caugner)
+- Based in Paris, Claas has been working as a Software Engineer in the MDN team
+  since 2022. He is passionate about clean code and continuous improvement. He
+  enjoys entertaining (the team), and maintaining (the platform). Outside of
+  work, he loves baking rye sourdough breads and playing cooperative board
+  games.
+
+</team-member>
+<team-member>
+
+#### Leo McArdle
+
+- Senior Software Engineer
+- ![](https://mdn.dev/generic-content/about/profiles/leo-309x309@1x.jpg)
+- [@LeoMcA](https://github.com/LeoMcA)
+- A London-based long-term Mozilla contributor, Leo has been working on MDN
+  since 2022 and volunteering for Mozilla since around 2008. As a self-taught
+  developer, largely through MDN, he cares about making the website discoverable
+  and functional for everyone. In his free time, he can be found cycling around
+  the city, photographing panoramas, or watching almost every sport imaginable,
+  from cricket to karting.
+
+</team-member>
+<team-member>
+
+#### Pranshu Khanna
+
+- Staff Community Manager
+- ![](https://mdn.dev/generic-content/about/profiles/pranshu-309x309@1x.jpg)
+- [@pransh15](https://github.com/pransh15)
+- Pranshu has been a long-term contributor to Mozilla as a Rep. Based in Berlin,
+  he joined the MDN team in 2024. He works on moderating, growing and managing
+  MDN’s awesome community. Pranshu is passionate about building a healthy and
+  inclusive community for developers and helping them build better. Before
+  working at Mozilla, Pranshu gained extensive experience in growing developer
+  communities for startups, organizing conferences like GraphQL Conf. 2021 &
+  2022, and running global programs for devs and students around AI, Web, and
+  DevOps. In his free time, he likes to play football in any form - physical,
+  digital, and fantasy.
+
+</team-member>
+<team-member>
+
+#### Anuja Rajput
+
+- Senior User Experience Designer
+- ![](https://mdn.dev/generic-content/about/profiles/anuja-309x309@1x.jpg)
+- [@AnujaRajput727](https://github.com/AnujaRajput727)
+- Located in London, Anuja has been a part of the MDN team since 2023. With over
+  8 years of experience, she has passionately contributed to various phases of
+  product development, including design, business analysis, and testing. She is
+  empathetic and deeply cares about understanding users' perspectives and pain
+  points. She combines her work experience with her creative skills to enhance
+  her UX designs. In her free time, she enjoys painting, sketching, and travel
+  sketching.
+
+</team-member>
+<team-member>
+
+#### Sonal Sood
+
+- Senior Product Manager
+- ![](https://mdn.dev/generic-content/about/profiles/sonal-309x309@1x.jpg)
+- [@s-sood](https://github.com/s-sood)
+- Sonal lives in Berlin. She has been with MDN since 2022. As a product manager,
+  she is adept at identifying and prioritizing features that truly meet users'
+  needs. With a strong background in data analysis and product management, she
+  is always focused on delivering valuable and impactful products that make a
+  difference. In her free time, Sonal enjoys cycling, running, and practicing
+  yoga.
+
+</team-member>
+<team-member>
+
+#### Miruna Curtean
+
+- Quality Assurance
+- ![](https://mdn.dev/generic-content/about/profiles/miruna-309x309@1x.jpg)
+- [@mirunacurtean](https://github.com/mirunacurtean)
+- Miruna calls Cluj-Napoca, Romania home. Contracting with Mozilla since 2019,
+  she worked on Firefox Add-ons and Mozilla Support before switching to MDN
+  in 2022. She focuses on analyzing requirements and community issues, building
+  comprehensive test bases, and ensuring delivered features meet requirements.
+  Before Mozilla, she worked in game development and e-commerce but found
+  greater joy in website development, particularly inspired by its community
+  aspect. Outside of work, Miruna enjoys story-based entertainment including
+  books, movies, shows, anime, and podcasts.
 
 </team-member>
 
@@ -478,7 +478,7 @@ forefront of web development!
 
 ##### Dominique Hazael-Massieux
 
-- W3C, Web Technology Expert including Web
+- Web Technology Expert including Web, W3C
 - ![](https://mdn.dev/generic-content/about/profiles/pab/dominique-309x309@1x.jpg)
 - Dominique Hazael-Massieux is part of the W3C staff, leading W3C
   efforts in developer relations. Dom has been working for W3C since 2000,
