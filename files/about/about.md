@@ -1,3 +1,7 @@
+---
+title: About MDN
+---
+
 # About MDN
 
 Empowering developers worldwide to build a better, open web
