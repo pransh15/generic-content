@@ -64,12 +64,16 @@ here's how we've evolved:
   [DevMo by Mozilla](https://blog.lizardwrangler.com/2005/02/23/devmo-and-devedge-updates/),
   a community-driven wiki dedicated to documenting open web standards.
 
+  ![](https://mdn.dev/generic-content/about/screenshots/20050121103200-960x540@1x.png)
+
 - #### 2010
 
   Rebranded as
   [Mozilla Developer Network (MDN)](https://hacks.mozilla.org/2010/08/introducing-the-new-mdn-website/),
   reinforcing our commitment to the developer community.
 
+  ![](https://mdn.dev/generic-content/about/screenshots/20100901014818-960x540@1x.png)
+  
 - #### 2017
 
   Achieved a milestone when major tech companies began contributing and
@@ -81,6 +85,8 @@ here's how we've evolved:
   Transitioned from its wiki-based origins to a modern,
   [GitHub-hosted project](https://github.com/mdn) with the launch of Yari,
   modernizing our infrastructure and workflows.
+  
+  ![](https://mdn.dev/generic-content/about/screenshots/20200103045709-1280x720@1x.png)
 
 - #### 2022
 
@@ -89,6 +95,8 @@ here's how we've evolved:
   introduced
   [MDN Plus](https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/),
   offering personalized features for an enhanced user experience.
+  
+  ![](https://mdn.dev/generic-content/about/screenshots/20220402010722-1280x720@1x.png)
 
 - #### 2023/2024
 
