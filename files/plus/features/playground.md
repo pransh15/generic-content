@@ -4,7 +4,7 @@ title: Playground
 
 # Playground
 
-> Write,Test and _Share_ your code
+> Write, Test, and _Share_ your code
 
 ## What is the Playground?
 
